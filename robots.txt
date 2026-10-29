@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chilenetspa.com/sitemap.xml
